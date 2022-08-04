@@ -1,4 +1,4 @@
-# Tiny-Python-Projects 
+# Tiny Python Projects 
 ## _Author: Zhu Lei (Vincent)_ 
 
 ### 1. Guessing game
